@@ -1,3 +1,9 @@
-TASK1 --- v=creating main
-TASK2 --- Feature class
-TASK3 --- Feature add
+# TASK1 :
+    - creating main
+    - Feature class
+# TASK2 :
+    - Feature add
+# TASK3  : 
+    - feature subtract
+# TASK4 :
+    - feature multiply
